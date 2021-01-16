@@ -1,2 +1,3 @@
 # Soma-Website
-Site do bot soma
+- Site criado para o bot soma
+- Isto é uma open source
